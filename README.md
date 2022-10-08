@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/72545872/194722579-bc378a61-c83b-41ec-8680-23a8b3a4ada1.png)
+![image](https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Waveing-Banner.gif)
 
 ### Hi there 👋
 
