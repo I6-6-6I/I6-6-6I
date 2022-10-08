@@ -1,3 +1,10 @@
 ![image](https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Waveing-Banner.gif)
 - - -
-## I'm young but ambitious C/C++ programmer from Poland. ###
+## About me ##
+
+I'm young, but ambitious self taught man from Poland.
+My journey with programming started when I was 11, so in 2014.
+(Add here something more lol)
+![image](https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-learning.gif)
+
+## Skills ##
