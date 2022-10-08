@@ -1,4 +1,3 @@
 ![image](https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Waveing-Banner.gif)
 - - -
-### I'm young but ambitious C/C++ programmer from Poland. ###
-- - -
+## I'm young but ambitious C/C++ programmer from Poland. ###
