@@ -25,7 +25,7 @@ Then I got to know youtube channels such as: **TheCherno, freeCodeCamp, Victor G
 I was also learning other skills like web development in **HTML** and **CSS** or learning other programming languages, but my main focus always was **C++** and Game Dev.<br>
 <br>
 ## Skills ##
-<img align="left"  height ="350" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Sitting-Happy1.gif">
+<img align="left"  height ="300" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Sitting-Happy1.gif">
 <div align="right">
   <table><tr><th>Languages</th><th>Graphics APIs</th><th>Other code related skills</th></tr>
    <tr>
