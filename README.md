@@ -1,6 +1,11 @@
 ![image](https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Waveing-Banner.gif)
 <br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+<div align="center">
+  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=I6-6-6I&label=Visitors%20Today&labelColor=%231f1f1f&countColor=%236959cc&labelStyle=upper)](https://visitorbadge.io/status?path=I6-6-6I)
+[![Visitors Today](https://api.visitorbadge.io/api/visitors?path=I6-6-6I&label=Visitors%20Today&labelColor=%231f1f1f&countColor=%238b7bee&labelStyle=upper)](https://visitorbadge.io/status?path=I6-6-6I)
+
+</div>
 <br>
 ## About me ##
 
