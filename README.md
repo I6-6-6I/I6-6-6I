@@ -2,8 +2,8 @@
 <br>
 <div align="center">
   
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=I6-6-6I&label=Visitors&labelColor=%231f1f1f&countColor=%236959cc&labelStyle=upper)](https://visitorbadge.io/status?path=I6-6-6I)
-[![Visitors Today](https://api.visitorbadge.io/api/visitors?path=I6-6-6I&label=Visitors%20Today&labelColor=%231f1f1f&countColor=%238b7bee&labelStyle=upper)](https://visitorbadge.io/status?path=I6-6-6I)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=I6-6-6I&label=Visitors&labelColor=%231f1f1f&countColor=%236959cc&labelStyle=upper)
+![Visitors Today](https://api.visitorbadge.io/api/visitors?path=I6-6-6I&label=Visitors%20Today&labelColor=%231f1f1f&countColor=%238b7bee&labelStyle=upper)
 [![GitHub](https://img.shields.io/github/followers/I6-6-6I?logo=github&style=for-the-badge)](https://github.com/I6-6-6I?tab=followers)
 [![Twitter](https://img.shields.io/twitter/follow/I__666__I?label=I__666__I&logo=twitter&style=for-the-badge)](https://twitter.com/I__666__I)
   
