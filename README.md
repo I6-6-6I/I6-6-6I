@@ -9,6 +9,7 @@
   
 </div>
 <br>
+
 ## About me ##
 
 <img align="right" height="400" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-learning.gif">
@@ -20,7 +21,7 @@ My first contact with game development was when I discovered something called **
 I was learning it for about half a year. Then I allready knew - **I wanted to go deeper** - **to actual code**.<br>
 I searched in google a phrase: **"programming tutorial"** and I have found **C++** free online course by **Mirosław Zelent**.<br>
 I have learned basics from it, but I knew it was just basics.<br>
-Then I got to know youtube channels such as: **TheCherno, freeCodeCamp, Victor Gordan and others** from which I learned even more - this time it wasn't that easy.<br>
+Then I got to know youtube channels such as: **TheCherno, freeCodeCamp, Victor Gordan and others** from which I have learned even more - this time it wasn't that easy.<br>
 I was also learning other skills like web development in **HTML** and **CSS** or learning other programming languages, but my main focus always was **C++** and Game Dev.<br>
 <br>
 ## Skills ##
@@ -39,7 +40,7 @@ I was also learning other skills like web development in **HTML** and **CSS** or
 </div><br>
 
 
-#### It's also worth to mention that I have some basic experience with these ones :point_down:
+#### It's also worth to mention that I have some basic experience with these :point_down:
 
 <div align="center">
 <img width="40" src = "https://github.com/I6-6-6I/I6-6-6I/blob/main/blender.png">
@@ -50,6 +51,7 @@ I was also learning other skills like web development in **HTML** and **CSS** or
 <img width="40" src = "https://renderdoc.org/fp/logo.svg">
 </div>
 
+## Contact
 
-
-## XD
+e-mail:   [chomiczjakub80@gmail.com](chomiczjakub80@gmail.com)<br>
+[![Discord](https://dcbadge.vercel.app/api/shield/589759776469024780)](https://discord.com/users/589759776469024780)
