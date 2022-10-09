@@ -1,12 +1,18 @@
 ![image](https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Waveing-Banner.gif)
-- - -
+<br>
+<br>
 ## About me ##
 
-I'm young, but ambitious self taught man from Poland.<br>
-My journey with programming started when I was 11, so in 2014.<br>
-I was allways fascinated
- 
- <img style="float: right;" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-learning.gif">
+<img align="right" height="400" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-learning.gif">
 
-
+I'm young, but **ambitious** self taught man from **Poland**.<br>
+My journey with **programming** started when I was 11, so in 2014.<br>
+I was allways fascinated with a **games** topic - how do they work and other stuff.<br>
+My first contact with game development was when I discovered something called **Unreal Engine 4**.<br>
+I was learning it for about half a year. Then I allready knew - **I wanted to go deeper** - **to actual code**.<br>
+I searched in google a phrase: **"programming tutorial"** and I have found **C++** free online course by **Mirosław Zelent**.<br>
+I have learned basics from it, but I knew it was just basics.<br>
+Then I got to know youtube channels such as: **TheCherno, freeCodeCamp, Victor Gordan and others** from which I learned even more - this time it wasn't that easy.<br>
+I was also learning other skills like web development in **HTML** and **CSS** or learning other programming languages, but my main focus always was **C++** and Game Dev.<br>
+<br>
 ## Skills ##
