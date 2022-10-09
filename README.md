@@ -53,5 +53,5 @@ I was also learning other skills like web development in **HTML** and **CSS** or
 
 ## Contact
 
-e-mail:   [chomiczjakub80@gmail.com](chomiczjakub80@gmail.com)<br>
+![Gmail](https://img.shields.io/badge/chomiczjakub80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
 [![Discord](https://dcbadge.vercel.app/api/shield/589759776469024780)](https://discord.com/users/589759776469024780)
