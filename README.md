@@ -19,7 +19,10 @@ I was also learning other skills like web development in **HTML** and **CSS** or
 <div align="center">
   <table><tr><th>Languages</th><th>Graphics APIs</th><th>Other code related skills</th></tr>
    <tr>
-     <td><table><tr><th>Language</th><th>Experience</th></tr><tr><td>C</td><td>Advanced</td></tr><tr><td>C++</td><td>Advanced</td></tr><tr><td>C#</td><td>Intermediate</td><tr><td>Java</td><td>Intermediate</td></tr> </table></td><td><table> <tr><th>API</th><th>Experience</th></tr><tr><td>OpenGL</td><td>Intermediate</td></tr><tr><td>Vulkan</td><td>Intermediate</td></tr> </table></td><td><table> <tr><th>Skill</th><th>Experience</th></tr><tr><td>HTML</td><td>Advanced</td></tr><tr><td>CSS</td><td>Advanced</td></tr> </table>
+     <td>
+      <table><tr><th>Language</th><th>Experience</th></tr><tr><td>C</td><td>Advanced</td></tr><tr><td>C++</td><td>Advanced</td></tr><tr><td>C#</td><td>Intermediate</td><tr><td>Java</td><td>Intermediate</td><tr><td>Python</td><td>Beginer</td></tr><tr><td>Lua</td><td>Beginer</td></tr> </table></td><td>
+     <table> <tr><th>API</th><th>Experience</th></tr><tr><td>OpenGL</td><td>Intermediate</td></tr><tr><td>Vulkan</td><td>Intermediate</td></tr> </table></td><td>
+     <table> <tr><th>Skill</th><th>Experience</th></tr><tr><td>HTML</td><td>Advanced</td></tr><tr><td>CSS</td><td>Advanced</td></tr> </table>
      <sup>I'm sorry web devs...</sup>
      </td>
    </tr>
