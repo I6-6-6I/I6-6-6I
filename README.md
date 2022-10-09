@@ -1,5 +1,6 @@
 ![image](https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Waveing-Banner.gif)
 <br>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <br>
 ## About me ##
 
@@ -28,6 +29,20 @@ I was also learning other skills like web development in **HTML** and **CSS** or
      </td>
    </tr>
   </table>
+</div><br>
+
+
+#### It's also worth to mention that I have some basic experience with these ones :point_down:
+
+<div align="center">
+<img width="40" src = "https://github.com/I6-6-6I/I6-6-6I/blob/main/blender.png">
+<img width="40" src = "https://cdn1.iconfinder.com/data/icons/adobe-3/512/Photoshop.png">
+<img width="40" src = "https://user-images.githubusercontent.com/72545872/194747008-232118d6-4a81-48be-8e88-19f1adf09b96.png">
+<img width="40" src = "https://cdn.freebiesupply.com/logos/large/2x/adobe-animate-logo-png-transparent.png">
+<img width="40" src = "https://pbs.twimg.com/profile_images/1272878358150275078/iBJehkOi_400x400.png">
+<img width="40" src = "https://renderdoc.org/fp/logo.svg">
 </div>
+
+
 
 ## XD
