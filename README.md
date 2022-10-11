@@ -12,7 +12,7 @@
 
 ## About me ##
 
-<img align="right" height="400" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-learning.gif">
+<img align="right" width="50%" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-learning.gif">
 
 I'm young, but **ambitious** self taught man from **Poland**.<br>
 My journey with **programming** started when I was 11, so in 2014.<br>
@@ -25,7 +25,7 @@ Then I got to know youtube channels such as: **TheCherno, freeCodeCamp, Victor G
 I was also learning other skills like web development in **HTML** and **CSS** or learning other programming languages, but my main focus always was **C++** and Game Dev.<br>
 <br>
 ## Skills ##
-<img align="left"  width="30%" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Sitting-Happy1.gif">
+<img align="left"  width="25%" src="https://github.com/I6-6-6I/I6-6-6I/blob/main/Mascot-Sitting-Happy1.gif">
 <div align="right">
   <table><tr><th>Languages</th><th>Graphics APIs</th><th>Other code related skills</th></tr>
    <tr>
